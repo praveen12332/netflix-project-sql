@@ -1,3 +1,3 @@
 # netflix movies and tv shows analysis using sql
 
-[netflixlogo]()
+[netflixlogo](netflix logo.png)
