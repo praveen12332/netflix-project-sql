@@ -1,1 +1,3 @@
-# netflix movies and tv shows analysis using netflix database
+# netflix movies and tv shows analysis using sql
+
+[netflixlogo][]
